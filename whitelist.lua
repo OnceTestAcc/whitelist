@@ -4,4 +4,4 @@ local userid = game:GetService('Players').LocalPlayer.UserId
 		game.Players.LocalPlayer:Kick("Your not whitelisted")
 		wait(1)
 		game.Players.LocalPlayer.Character:BreakJoints()
-	end
+end
