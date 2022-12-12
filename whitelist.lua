@@ -1,4 +1,4 @@
-local arr = {}
+local arr = {4130479224}
 local userid = game:GetService('Players').LocalPlayer.UserId
 	if userid ~= (arr[#arr]) then
 		game.Players.LocalPlayer:Kick("Your not whitelisted")
